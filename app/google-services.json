@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694428982967",
+    "firebase_url": "https://sthhappens-58537.firebaseio.com",
+    "project_id": "sthhappens-58537",
+    "storage_bucket": "sthhappens-58537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694428982967:android:e58979b58a4341a2",
+        "android_client_info": {
+          "package_name": "pl.marczak.sthhappens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694428982967-59s442jqasum2ht123ek0nfnn5kqee9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOOeYNrT0qeehc0a8Fgfwv1s0nYF0lT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
